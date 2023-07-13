@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+}
+.container-fluid{
+    width: 100%;
+}
+.container {
+    width: 90%;
+}
+.first_child p{
+    padding: 15px;
+    float: left;
+    margin-left:20px;  
+    margin-top:15px;
+    margin-bottom:5px;
+}
+.second_child {
+    height: 30%;
+    background-color: rgb(221, 16, 16);
+    margin-left: 35%;
+}
+.third_child {
+    height: 400px;
+    width: 112%;
+    background-color:skyblue;
+    padding: 80px;
+}
+.fourth_child {
+    height: 400px;
+    width: 112%;
+    background-color: rgb(66, 2, 64);
+    padding: 80px;
+}
+.fifth_child {
+    height: 400px;
+    width: 112%;
+    background-color: rgb(15, 176, 230);
+    padding: 80px;
+}
